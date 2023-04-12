@@ -9,6 +9,7 @@
 		},
 		"github": {},
 		"sync-settings": {
+			"hiddenSettings": {},
 			"useOtherLocation": true
 		},
 		"sync-settings-git-location": {
