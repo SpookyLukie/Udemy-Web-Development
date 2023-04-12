@@ -1,0 +1,21 @@
+{
+	"*": {
+		"core": {
+			"telemetryConsent": "no",
+			"uriHandlerRegistration": "always"
+		},
+		"exception-reporting": {
+			"userId": "420d648f-78e7-4e02-aaa4-a7be0afede23"
+		},
+		"github": {},
+		"sync-settings": {
+			"useOtherLocation": true
+		},
+		"sync-settings-git-location": {
+			"gitUrl": "https://github.com/SpookyLukie/Udemy-Web-Development.git"
+		},
+		"welcome": {
+			"showOnStartup": false
+		}
+	}
+}
