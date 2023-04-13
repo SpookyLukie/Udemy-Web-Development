@@ -4,6 +4,7 @@
 			"telemetryConsent": "no",
 			"uriHandlerRegistration": "always"
 		},
+		"editor": {},
 		"exception-reporting": {
 			"userId": "420d648f-78e7-4e02-aaa4-a7be0afede23"
 		},
